@@ -72,6 +72,6 @@ npm install
 npm start
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 - Thiago Campos
-- GitHub: @thfields
+- Paulo Vieira
