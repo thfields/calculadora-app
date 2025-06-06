@@ -2,6 +2,13 @@
 
 Aplicativo de calculadora desenvolvido em **React Native** com **TypeScript**, utilizando o **Expo** para execução. Ele possui uma interface simples e funcional com suporte a expressões matemáticas básicas.
 
+## 📱 Captura de Tela
+
+<p align="center">
+  <img src="./assets/calculadora.jpeg" width="300"/>
+</p>
+
+
 ## 🚀 Funcionalidades
 
 - Digitação de expressões matemáticas com parênteses.
